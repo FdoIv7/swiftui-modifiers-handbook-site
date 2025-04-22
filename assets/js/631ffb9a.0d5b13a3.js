@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkswiftui_modifiers_handbook=self.webpackChunkswiftui_modifiers_handbook||[]).push([[7229],{2080:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/swiftui-modifiers-handbook-site/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
