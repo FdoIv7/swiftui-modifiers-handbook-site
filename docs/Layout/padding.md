@@ -28,13 +28,13 @@ Think of it as telling SwiftUI:
 ### `.padding()` in action:
 
 <div style={{marginLeft: '2rem', marginTop: '2rem', width: '80%'}}>
-  <img src="/img/layout/padding/padding_animation.gif" alt="Padding animation example" style={{ width: '100%', borderRadius: '8px' }} />
+  <img src={require('@site/static/img/layout/padding/padding_animation.gif').default} alt="Padding animation example" style={{ width: '100%', borderRadius: '8px' }} />
 </div>
 
 ### How it looks in Xcode:
 
 <div style={{marginLeft: '2rem', marginTop: '2rem', width: '80%'}}>
-  <img src="/img/layout/padding/padding_code_snippet.png" alt="padding code example" style={{borderRadius: '12px', width: '100%'}}/>
+  <img src={require('@site/static/img/layout/padding/padding_code_snippet.png').default} alt="padding code example" style={{borderRadius: '12px', width: '100%'}}/>
 </div>
 
 ### Try `.padding()` yourself!
