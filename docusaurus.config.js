@@ -108,10 +108,6 @@ const config = {
           {
             title: 'Docs',
             items: [
-              {
-                label: 'Modifiers',
-                to: '/docs/intro',
-              },
             ],
           },
           {
@@ -145,7 +141,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} SwiftUI Modifiers Handbook.`,
       },
       prism: {
         theme: prismThemes.github,
