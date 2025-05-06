@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkswiftui_modifiers_handbook=self.webpackChunkswiftui_modifiers_handbook||[]).push([[1903],{1912:i=>{i.exports=JSON.parse('{"blogBasePath":"/swiftui-modifiers-handbook-site/blog","blogTitle":"Blog","authorsListPath":"/swiftui-modifiers-handbook-site/blog/authors"}')}}]);

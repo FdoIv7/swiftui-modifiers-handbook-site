@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkswiftui_modifiers_handbook=self.webpackChunkswiftui_modifiers_handbook||[]).push([[235],{8552:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
